@@ -1,0 +1,13 @@
+{
+  "name": "ratchetSockets",
+  "version": "0.0.1",
+  "autoload": {
+    "psr-4": {
+      "": "src/"
+    }
+  },
+  "require": {
+    "cboden/ratchet": "0.4.*",
+    "react/zmq": "0.2.*|0.3.*"
+  }
+}
